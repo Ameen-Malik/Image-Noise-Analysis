@@ -63,7 +63,7 @@ image = load_and_prepare_image("path/to/your/image.png")
 
 3. Run the script:
 ```bash
-python noise_analysis.py
+python image_noise_analysis.py
 ```
 
 4. Check the `output_images` directory for results:
